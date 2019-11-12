@@ -1,0 +1,60 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Banarescu \bgroup et al.\egroup
+  }2013]{banarescu2013abstract}
+Banarescu, L., Bonial, C., Cai, S., Georgescu, M., Griffitt, K., Hermjakob, U.,
+  Knight, K., Koehn, P., Palmer, M., and Schneider, N.
+\newblock (2013).
+\newblock Abstract meaning representation for sembanking.
+\newblock In {\em Proceedings of the 7th Linguistic Annotation Workshop and
+  Interoperability with Discourse}, pages 178--186.
+
+\bibitem[\protect\citename{Charniak and
+  Johnson}2005]{charniak_coarse--fine_2005}
+Charniak, E. and Johnson, M.
+\newblock (2005).
+\newblock Coarse-to-fine n-best parsing and {MaxEnt} discriminative reranking.
+\newblock In {\em Proceedings of the 43rd Annual Meeting on Association for
+  Computational Linguistics}, pages 173--180.
+
+\bibitem[\protect\citename{Davidson}1980]{Davidson:1980}
+Davidson, D.
+\newblock (1980).
+\newblock {\em Essays on Actions and Events}.
+\newblock Oxford University Press, Oxford.
+
+\bibitem[\protect\citename{Kingsbury and Palmer}2002]{kingsbury_treebank_2002}
+Kingsbury, P. and Palmer, M.
+\newblock (2002).
+\newblock From treebank to {PropBank}.
+\newblock In {\em Proceedings of the 3rd International Conference on Language
+  Resources and Evaluation ({LREC} 2002)}, Las Palmas, Spain, May.
+
+\bibitem[\protect\citename{Lozano}2017]{lozanose}
+Lozano, L.
+\newblock (2017).
+\newblock Los diferentes tipos de "se" en ele.
+\newblock {\em Red ELE, 3, retrieved from
+  https://sede.educacion.gob.es/publiventa/d/20267/19/0}.
+
+\bibitem[\protect\citename{Marcus \bgroup et al.\egroup
+  }1993]{marcus_building_1993}
+Marcus, M.~P., Santorini, B., and Marcinkiewicz, M.~A.
+\newblock (1993).
+\newblock Building a large annotation corpus of english: The penn treebank.
+\newblock {\em Computational Linguistics}, 19(2):313--330.
+
+\bibitem[\protect\citename{Migueles~Abraira}2017]{migueles2017study}
+Migueles~Abraira, N.
+\newblock (2017).
+\newblock A study towards spanish abstract meaning representation.
+\newblock {\em Master Thesis, University of the Basque Country UPV/EHU}.
+
+\bibitem[\protect\citename{Taul{\'e} \bgroup et al.\egroup
+  }2008]{taule2008ancora}
+Taul{\'e}, M., Mart{\'\i}, M.~A., and Recasens, M.
+\newblock (2008).
+\newblock {AnCora: Multilevel Annotated Corpora for Catalan and Spanish.}
+\newblock In {\em Proceedings of LREC 2008}, pages 96--101.
+
+\end{thebibliography}
